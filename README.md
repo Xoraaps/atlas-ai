@@ -126,8 +126,19 @@ Atlas Core
 
 ---
 
-## Contributing
+## Current Status
 
+Atlas AI is currently in early development stage.
+
+The project is actively being built as an open-source experimental AI system focused on:
+
+- Memory systems
+- Multi-agent architecture
+- Personal AI assistant capabilities
+
+## Note
+
+This project is being developed as part of a learning journey in AI systems engineering.
 Contributions are welcome.
 
 ---
